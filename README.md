@@ -94,11 +94,9 @@ PORT=3001
 	npx prisma migrate dev
 ## Running The Server
 
-**Install dependencies**:
-
  ```bash
-npm install
+npm run start
 #or
-yarn install
+yarn start
  ```
 
